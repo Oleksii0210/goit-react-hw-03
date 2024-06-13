@@ -1,0 +1,31 @@
+.friendListItem {
+  width: 130px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-color: rgb(0, 0, 0);
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+
+.avatarItem {
+  margin-bottom: 10px;
+}
+
+.nameItem {
+  font-size: 29px;
+  color: #000000;
+}
+
+.statusItemOnline {
+  color: rgb(3, 166, 3);
+  font-size: 24px;
+}
+
+.statusItemOffline {
+  color: red;
+  font-size: 24px;
+}
