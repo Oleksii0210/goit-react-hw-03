@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 400px;
+  border: 2px solid rgb(7, 7, 7);
+  border-radius: 2px;
+  padding-left: 10px;
+  margin-bottom: 30px;
+}
+
+.button {
+  display: flex;
+  padding: 5px;
+  width: 120px;
+  margin: 10px auto 10px;
+  justify-content: center;
+}
+
+.field {
+  width: 95%;
+  /* margin-bottom: 30px; */
+}
+
+.label {
+  margin-top: 20px;
+}

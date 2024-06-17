@@ -1,0 +1,14 @@
+.searchBox {
+  width: 405px;
+  margin-bottom: 40px;
+}
+
+.label {
+  display: flex;
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.input {
+  width: 100%;
+}
