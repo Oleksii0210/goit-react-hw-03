@@ -20,6 +20,6 @@ function Contact({ data: { id, name, number }, onDelete }) {
       </button>
     </div>
   );
-}
+};
 
-export default Contact;
+export default Contact
